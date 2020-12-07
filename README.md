@@ -2,7 +2,7 @@ Web Developer. Creator Bot.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nizariyf&show_icons=true)
 
-## Language
+## **Language**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizariyf&layout=compact)
 
