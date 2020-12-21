@@ -6,6 +6,7 @@ Web Developer. Creator Bot.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizariyf)
 
-## Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nizariyf)
+[![Donations](https://yourdonation.rocks/images/badge.svg)](https://saweria.co/nidev)
+
