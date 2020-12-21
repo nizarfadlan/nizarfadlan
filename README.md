@@ -8,5 +8,5 @@ Web Developer. Creator Bot.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nizariyf)
-[![Donations](https://yourdonation.rocks/images/badge.svg)](https://saweria.co/nidev)
+[![Donations](https://img.shields.io/badge/Donations-All-green)](https://saweria.co/nidev)
 
