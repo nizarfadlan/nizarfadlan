@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar yang suka dengan IT, saya juga adalah **Backend Developer**. Saya sangat tertarik dengan **Teknologi Backend**, **Machine Learning**, dan **Web Scrapping**.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nizariyf&show_icons=true&theme=material-palenight)
+![github stats](https://github-readme-stats.vercel.app/api?username=nizariyf&show_icons=true)
 
 ## 🤖 Keahlian
 
