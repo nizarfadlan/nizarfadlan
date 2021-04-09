@@ -9,15 +9,15 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar yang
 <table>
   <tbody width="100%">
     <tr valign="top">
-      <td width="16.7%" align="center" style="padding-bottom: 17px">
+      <td width="32.5%" align="center" style="padding-bottom: 17px">
         <span>Javascript</span><br><br> 
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       </td>
-      <td width="16.7%" align="center">
+      <td width="32.5%" align="center">
         <span>Python</span><br><br> 
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </td>
-      <td width="16.7%" align="center">
+      <td width="32.5%" align="center">
         <span>PHP</span><br><br> 
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
       </td>
