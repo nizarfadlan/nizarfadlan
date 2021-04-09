@@ -14,10 +14,6 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar yang
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       </td>
       <td width="16.7%" align="center">
-        <span>NextJS</span><br><br> 
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg">
-      </td>
-      <td width="16.7%" align="center">
         <span>Python</span><br><br> 
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       </td>
