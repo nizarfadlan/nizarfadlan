@@ -45,6 +45,8 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar yang
 
 - jQuery
 
+- Next.JS 
+
 
 #### Database
 
