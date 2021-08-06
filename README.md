@@ -45,7 +45,9 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA 
 - MongoDB Atlas
 
 ### Find Me :
-[Facebook](https://www.facebook.com/nizariyf/) | [Linkedin](https://id.linkedin.com/in/nizariyf/) | [Instagram @nizariyf_](https://www.instagram.com/nizariyf_/)
+<a href="https://www.linkedin.com/in/nfidev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/nfitec/"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/nfithedev/"><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ## 📊 Visitor
 
