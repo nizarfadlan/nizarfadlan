@@ -2,7 +2,8 @@
 
 Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA yang suka dengan IT, saya berkeinginan menjadi seorang **Backend Developer**. Saya sangat tertarik dengan bidang **Backend**, **Machine Learning**.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nizariyf&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=nfithedev&show_icons=true)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=nfithedev&hide_border=true)
 
 ## 🤖 Keahlian
 
@@ -51,4 +52,4 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA 
 
 ## 📊 Visitor
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nizariyf)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nfithedev)
