@@ -44,7 +44,7 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA 
 - MySQL
 - MongoDB Atlas
 
-### Reach Me :
+### Find Me :
 [Facebook](https://www.facebook.com/nizariyf/) | [Linkedin](https://id.linkedin.com/in/nizariyf/) | [Instagram @nizariyf_](https://www.instagram.com/nizariyf_/)
 
 ## 📊 Visitor
