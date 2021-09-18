@@ -50,9 +50,9 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA 
 <a href="https://t.me/nizar_aja"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 
 ### Find Me :
-<a href="https://www.linkedin.com/in/nfidev"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nizariyf"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/nfitec/"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/nfithedev/"><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/nizariyf_/"><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ## 📊 Visitor
 
