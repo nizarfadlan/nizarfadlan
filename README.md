@@ -36,7 +36,6 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA 
 
 - CodeIgniter
 - Laravel
-- jQuery
 - Next.JS 
 
 
