@@ -47,7 +47,7 @@ Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA 
 - MongoDB Atlas
 
 ### Contact Me :
-<a href="mailto:nfitec@pm.me"><img src="https://img.shields.io/badge/-ProtonMail-212121?style=flat&logo=ProtonMail&logoColor=white"/></a>
+<a href="mailto:fadlannizar5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/nizar_aja"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 
 ### Find Me :
