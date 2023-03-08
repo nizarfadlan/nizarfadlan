@@ -1,60 +1,36 @@
-<!--<h1 align="center">Selamat Datang di Profilku <img width="37" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></img></h1>-->
+<div align="center">
+  <a href="https://github.com/nizarfadlan">
+      <img src="https://readme-typing-svg.herokuapp.com?color=6A5CB6&center=true&vCenter=true&lines=Belajar+itu+harus;Pintar+itu+bonus">
+  </a>
+</div>
 
-## 👦 Nizar Izzuddin Yatim Fadlan
+<h2>
+  Hi!
+   <img width="37" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></img>
+</h2>
 
-Perkenalkan nama saya **Nizar Izzuddin Yatim Fadlan**. Saya seorang pelajar SMA yang suka dengan IT, saya berkeinginan menjadi seorang **Backend Developer**. Saya sangat tertarik dengan bidang **Backend**, **Machine Learning**.
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nizarfadlan&right_color=%236A5CB6&right_text=white)](https://github.com/nizarfadlan) [![GitHub followers](https://img.shields.io/github/followers/nizarfadlan.svg?style=social&label=Follow)](https://github.com/nizarfadlan?tab=followers)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true)
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=nizarfadlan&hide_border=true)
+I'm Nizar Izzuddin Yatim Fadlan! 
+- <i>Currently:</i> Bachelor degree student at Yogyakarta Institute of Science and Technology AKPRIND. 
 
-## 🤖 Keahlian
+## 💻 I'm Currently working on
+- Software Engineering
 
-<table>
-  <tbody width="100%">
-    <tr valign="top">
-      <td width="32.5%" align="center" style="padding-bottom: 17px">
-        <span>Javascript</span><br><br> 
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      </td>
-      <td width="32.5%" align="center">
-        <span>Python</span><br><br> 
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      </td>
-      <td width="32.5%" align="center">
-        <span>PHP</span><br><br> 
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 👀 Stats
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&count_private=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</div>
 
-#### Bahasa Pemrograman
+## About Nizar⚡
 
-- PHP
-- Python
-- Javascript
+I am a Bachelor degree student living in Yogyakarta. Outside of Technology, I like to read, and enjoy music.
+ 
+- Check out my Portofolio: [https://nizarfadlan.dev](https://nizarfadlan.dev)
+- Know more about me: [About Nizar](https://nizarfadlan.dev/about)
+- Write to me: [contact@nizarfadlan.dev](mailto:contact@nizarfadlan.dev)
 
-#### Framework
-
-- CodeIgniter
-- Laravel
-- Next.JS 
-
-
-#### Database
-
-- MySQL
-- MongoDB Atlas
-
-### Contact Me :
-<a href="mailto:fadlannizar5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/nizar_aja"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-
-### Find Me :
-<a href="https://www.linkedin.com/in/nizariyf"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/nfitec/"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/nizariyf_/"><img src="https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white"/></a>
-
-## 📊 Visitor
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nizarfadlan)
+## 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6A5CB6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nizariyf)
+[![Facebook](https://img.shields.io/badge/-Facebook-6A5CB6?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/nfitec/)
+[![Instagram](https://img.shields.io/badge/-Instagram-6A5CB6?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nizariyf_/)
