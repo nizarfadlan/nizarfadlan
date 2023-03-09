@@ -12,7 +12,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nizarfadlan&right_color=%236A5CB6&right_text=white)](https://github.com/nizarfadlan) [![GitHub followers](https://img.shields.io/github/followers/nizarfadlan.svg?style=social&label=Follow)](https://github.com/nizarfadlan?tab=followers)
 
 I'm Nizar Izzuddin Yatim Fadlan! 
-- <i>Currently:</i> Bachelor degree student at Yogyakarta Institute of Science and Technology AKPRIND. 
+- <i>Currently:</i> Bachelor degree student at Institute of Science and Technology AKPRIND Yogyakarta. 
 
 ## 💻 I'm Currently working on
 - Software Engineering
