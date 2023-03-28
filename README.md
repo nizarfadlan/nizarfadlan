@@ -19,7 +19,7 @@ I'm Nizar Izzuddin Yatim Fadlan!
 
 ## 👀 Stats
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&count_private=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ## About Nizar⚡
