@@ -15,7 +15,9 @@ I'm Nizar Izzuddin Yatim Fadlan!
 - <i>Currently:</i> Bachelor degree student at Institute of Science and Technology AKPRIND Yogyakarta. 
 
 ## 💻 I'm Currently working on
+<!---
 - Software Engineering at <i> Refourma.com </i>. As a chatbot and backend developer, focusing on using NestJS as a backend.
+-->
 
 ## 👀 Stats
 <div align="center">  
