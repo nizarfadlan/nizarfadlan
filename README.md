@@ -30,7 +30,7 @@ I am a Bachelor degree student living in Yogyakarta. Outside of Technology, I li
  
 - Check out my Portofolio: [https://nizarfadlan.dev](https://nizarfadlan.dev)
 - Know more about me: [About Nizar](https://nizarfadlan.dev/about)
-- Write to me: [contact@nizarfadlan.dev](mailto:contact@nizarfadlan.dev)
+- Write to me: [me@nizarfadlan.dev](mailto:me@nizarfadlan.dev)
 
 ## 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6A5CB6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nizariyf)
