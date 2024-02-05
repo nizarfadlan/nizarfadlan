@@ -19,11 +19,6 @@ I'm Nizar Izzuddin Yatim Fadlan!
 - Software Engineering at <i> Refourma.com </i>. As a chatbot and backend developer, focusing on using NestJS as a backend.
 -->
 
-## 👀 Stats
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
-</div>
-
 ## About Nizar⚡
 
 I am an undergraduate student living in Yogyakarta. Outside of technology, I like to read books and comics and enjoy music.
@@ -31,6 +26,15 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 - Check out my Portofolio: [https://nizarfadlan.dev](https://nizarfadlan.dev)
 - Know more about me: [About Nizar](https://nizarfadlan.dev/about)
 - Write to me: [me@nizarfadlan.dev](mailto:me@nizarfadlan.dev)
+
+## 👀 Stats
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
+</div>
+
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6A5CB6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nizariyf)
