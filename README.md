@@ -32,9 +32,9 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
   <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </div>
 
-## 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 ## 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6A5CB6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nizariyf)
