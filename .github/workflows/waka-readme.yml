@@ -17,6 +17,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SHOW_TIME: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_year
           IGNORED_LANGUAGES: YAML JSON TOML
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
