@@ -35,10 +35,12 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 hrs 49 mins  ████████████████████████▒   97.43 %
-Prisma       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+From: 06 February 2023 - To: 06 February 2024
+
+TypeScript        328 hrs 37 mins ███████████████████▓░░░░░   78.45 %
+C#                29 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+JavaScript        18 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other             5 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
