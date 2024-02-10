@@ -35,7 +35,7 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2023 - To: 08 February 2024
+From: 09 February 2023 - To: 09 February 2024
 
 TypeScript        330 hrs 41 mins ███████████████████▓░░░░░   78.56 %
 C#                29 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
