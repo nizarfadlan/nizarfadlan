@@ -35,12 +35,12 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2023 - To: 13 February 2024
+From: 14 February 2023 - To: 14 February 2024
 
-TypeScript        330 hrs 41 mins ███████████████████▓░░░░░   78.56 %
-C#                29 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-JavaScript        18 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Other             5 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+TypeScript        333 hrs 58 mins ███████████████████▓░░░░░   78.57 %
+C#                29 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+JavaScript        18 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Other             5 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 
 <!--END_SECTION:waka-->
