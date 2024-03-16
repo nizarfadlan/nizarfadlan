@@ -35,13 +35,13 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 13 March 2024
+From: 13 February 2024 - To: 14 March 2024
 
-Kotlin                 53 hrs 13 mins  ██████████████▒░░░░░░░░░░   57.90 %
-XML                    18 hrs 31 mins  █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-TypeScript             13 hrs 14 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Other                  1 hr 45 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Bash                   1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Kotlin                 54 hrs 13 mins  ██████████████▒░░░░░░░░░░   57.49 %
+XML                    19 hrs 17 mins  █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+TypeScript             13 hrs 38 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Other                  1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Bash                   1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
