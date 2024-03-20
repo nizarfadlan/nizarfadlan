@@ -35,7 +35,7 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2024 - To: 17 March 2024
+From: 17 February 2024 - To: 18 March 2024
 
 Kotlin                 57 hrs 40 mins  ███████████████░░░░░░░░░░   60.58 %
 XML                    20 hrs 35 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
