@@ -21,7 +21,7 @@ I'm Nizar Izzuddin Yatim Fadlan!
 
 ## About Nizar⚡
 
-I am an undergraduate student living in Yogyakarta. Outside of technology, I like to read books and comics and enjoy music.
+I am an undergraduate student living in Yogyakarta. Outside of technology, I like to read books and enjoy music.
 
 - Check out my Portofolio: [https://nizarfadlan.dev](https://nizarfadlan.dev)
 - Know more about me: [About Nizar](https://nizarfadlan.dev/about)
