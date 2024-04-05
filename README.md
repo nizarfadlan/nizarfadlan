@@ -25,7 +25,7 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 
 - Check out my Portofolio: [https://nizarfadlan.dev](https://nizarfadlan.dev)
 - Know more about me: [About Nizar](https://nizarfadlan.dev/about)
-- Write to me: [me@nizarfadlan.dev](mailto:me@nizarfadlan.dev)
+- Write to me: [hello@nizarfadlan.dev](mailto:hello@nizarfadlan.dev)
 
 ## 👀 Stats
 <div align="center">  
