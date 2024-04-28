@@ -35,7 +35,7 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2024 - To: 25 April 2024
+From: 27 March 2024 - To: 26 April 2024
 
 JavaScript        17 hrs 57 mins  ██████████▒░░░░░░░░░░░░░░   41.02 %
 TypeScript        9 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
