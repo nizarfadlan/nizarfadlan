@@ -35,13 +35,13 @@ I am an undergraduate student living in Yogyakarta. Outside of technology, I lik
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 29 April 2024
+From: 31 March 2024 - To: 30 April 2024
 
-JavaScript        18 hrs 42 mins  ██████████▓░░░░░░░░░░░░░░   42.15 %
-TypeScript        9 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-JSON              4 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Bash              2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-YAML              1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JavaScript        19 hrs 4 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
+TypeScript        9 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
+JSON              4 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Bash              2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+YAML              1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
