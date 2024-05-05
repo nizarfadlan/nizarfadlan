@@ -28,8 +28,6 @@
 
 <h3 align=center>Full Stack Developer | Computer Science Student</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### About Me⚡
 
 - 👨🏻‍💼 My name is `Nizar Izzuddin Yatim Fadlan`
@@ -38,7 +36,9 @@
 - 💻 `Infomatics` Student at `Universitas AKPRIND Indonesia`
 - 🌟 Currently, `Kotlin`, `JavaScript`, and `TypeScript` are my favorite tech.
 
-### Skill Set
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Skill Set ⚔️
 
 #### Front-end
 
@@ -55,8 +55,6 @@
 #### Database
 
 [![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase)](https://skillicons.dev)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Equipment 🧰
 
