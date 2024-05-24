@@ -80,13 +80,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2024 - To: 21 May 2024
+From: 22 April 2024 - To: 22 May 2024
 
-TypeScript        64 hrs 15 mins  ██████████████████▒░░░░░░   73.89 %
-XML               5 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-JavaScript        4 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Markdown          2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Prisma            2 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript        64 hrs 14 mins  █████████████████▓░░░░░░░   70.30 %
+XML               7 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Kotlin            3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+JavaScript        3 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Markdown          2 hrs 49 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
