@@ -32,7 +32,7 @@
 
 - 👨🏻‍💼 My name is `Nizar Izzuddin Yatim Fadlan`
 - 🏠 Live in `Jogja, Indonesia`
-- 🧍🏻‍♂️ `20` years old
+- 🧍🏻‍♂️ `21` years old
 - 💻 `Infomatics` Student at `Universitas AKPRIND Indonesia`
 - 🌟 Currently, `JavaScript`, `TypeScript` and `Kotlin` are my favorite tech.
 
