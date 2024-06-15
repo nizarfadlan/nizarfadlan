@@ -50,7 +50,11 @@
 
 #### Full Stack
 
-[![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs,kotlin)](https://skillicons.dev)
+[![My Full Stack Skills](https://skillicons.dev/icons?i=js,ts,nextjs)](https://skillicons.dev)
+
+#### Mobile
+
+[![Android Skills](https://skillicons.dev/icons?i=kotlin,java)](https://skillicons.dev)
 
 #### Database
 
