@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 21 June 2024
+From: 23 May 2024 - To: 22 June 2024
 
-Kotlin                 53 hrs 14 mins  ██████████░░░░░░░░░░░░░░░   40.23 %
-TypeScript             32 hrs 31 mins  ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-XML                    18 hrs 27 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-YAML                   6 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-JavaScript             4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Kotlin                 51 hrs 1 min    ██████████░░░░░░░░░░░░░░░   40.65 %
+TypeScript             32 hrs 31 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+XML                    14 hrs 49 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+YAML                   5 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+JavaScript             4 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
