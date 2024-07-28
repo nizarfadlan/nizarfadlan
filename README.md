@@ -69,9 +69,9 @@
   - `Operating System` - GNU/Linux
     - `Distro` - ArchLinux
     - `Kernel` - 6.8
-    - `WM` - bspwm
+    - `WM` - hyprland
 - `Text Editor` - VSCode
-- `Browser` - Arc Browser
+- `Browser` - Arc Browser, Firefox
 - `Terminal` - Alacritty, Kitty
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
