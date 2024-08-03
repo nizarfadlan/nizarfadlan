@@ -60,20 +60,6 @@
 
 [![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase)](https://skillicons.dev)
 
-### Equipment 🧰
-
-- `Laptop` - Aspire A514-54G
-  - `CPU` - Intel Gen 11 i5-1135G7
-  - `RAM` - 16GB DDR4 3200MHz
-  - `GPU` - Nvidia MX350
-  - `Operating System` - GNU/Linux
-    - `Distro` - ArchLinux
-    - `Kernel` - 6.8
-    - `WM` - hyprland
-- `Text Editor` - VSCode
-- `Browser` - Arc Browser, Firefox
-- `Terminal` - Alacritty, Kitty
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 👀 Stats
