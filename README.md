@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h3 align=center>Full Stack Developer | Computer Science Student</h3>
+<h3 align=center>Backend Developer | Computer Science Student</h3>
 
 ### About Me⚡
 
