@@ -26,14 +26,15 @@
   </a>
 </div>
 
-<h3 align=center>Backend Developer | Computer Science Student</h3>
+<h3 align=center>Backend Developer</h3>
 
 ### About Me⚡
 
 - 👨🏻‍💼 My name is `Nizar Izzuddin Yatim Fadlan`
-- 🏠 Live in `Jogja, Indonesia`
+- 🏠 Live in `Bandung, Indonesia`
 - 🧍🏻‍♂️ `21` years old
-- 💻 `Infomatics` Student at `Universitas AKPRIND Indonesia`
+- 💻 Backend Developer at `PT. Quantus Telematika Indonesia`
+- 🎓 Graduate of `Infomatics` from `Universitas AKPRIND Indonesia`
 - 🌟 Currently, `JavaScript`, `TypeScript` and `Kotlin` are my favorite tech.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
