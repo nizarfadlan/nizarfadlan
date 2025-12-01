@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h3 align=center>Backend Developer</h3>
+<h3 align=center>Software Engineer</h3>
 
 ### About Me⚡
 
