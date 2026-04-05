@@ -47,7 +47,7 @@
 
 #### Back-end
 
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,rust,fastapi,python)](https://skillicons.dev)
 
 #### Full Stack
 
