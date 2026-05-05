@@ -18,9 +18,6 @@
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nizarfadlan&right_color=%236A5CB6&right_text=white" />
-  <a href="https://wakatime.com/@b58ec643-eaf9-47b9-b755-cba1ef70cda2">
-    <img src="https://wakatime.com/badge/user/b58ec643-eaf9-47b9-b755-cba1ef70cda2.svg"/>
-  </a>
   <a href="https://github.com/nizarfadlan?tab=followers">
     <img src="https://img.shields.io/github/followers/nizarfadlan.svg?style=social&label=Follow">
   </a>
@@ -67,15 +64,3 @@
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=nizarfadlan&show_icons=true&bg_color=6A5CB6&icon_color=ffffff&text_color=ffffff&title_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </div>
-
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript                   1,223 hrs 56 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.09 %
-Python                       826 hrs 19 mins       ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.36 %
-Rust                         423 hrs               ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.47 %
-Other                        177 hrs 20 mins       ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.23 %
-Kotlin                       145 hrs 34 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.29 %
-```
-
-<!--END_SECTION:waka-->
