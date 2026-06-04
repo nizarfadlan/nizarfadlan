@@ -29,7 +29,7 @@
 
 - 👨🏻‍💼 My name is `Nizar Izzuddin Yatim Fadlan`
 - 🏠 Live in `Bandung, Indonesia`
-- 🧍🏻‍♂️ `22` years old
+- 🧍🏻‍♂️ `23` years old
 - 💻 Backend Developer at `PT. Quantus Telematika Indonesia`
 - 🎓 Graduate of `Infomatics` from `Universitas AKPRIND Indonesia`
 - 🌟 Currently, `JavaScript`, `TypeScript` and `Kotlin` are my favorite tech.
