@@ -29,10 +29,9 @@
 
 - 👨🏻‍💼 My name is `Nizar Izzuddin Yatim Fadlan`
 - 🏠 Currently living in `Bandung, Indonesia`
-- 🧍🏻‍♂️ `23` years old
 - 💻 Backend Developer at `PT. Quantus Telematika Indonesia`
 - 🎓 Graduate of `Infomatics` from `Universitas AKPRIND Indonesia`
-- 🌟 Currently, `JavaScript`, `TypeScript` and `Kotlin` are my favorite tech.
+- 🌟 Currently,  `Rust`, `Python` and `Typescript` are my favorite tech.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
